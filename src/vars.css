@@ -1,0 +1,10 @@
+:root{
+    /*FONT*/
+    --font-inter: "Inter", sans-serif;
+
+    /*COLORS*/
+    --text-green: hsl(75, 94%, 57%);
+    --text-base-light: hsl(0, 0%, 100%);
+    --button-background: hsl(0, 0%, 20%);
+
+}
